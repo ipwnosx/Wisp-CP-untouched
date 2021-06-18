@@ -1,0 +1,5 @@
+Sn. {user_full_name}
+
+{ticket_subject} başlıklı destek talebiniz oluşturulmuş olup, işlem sırasına alınmıştır. Mümkün olan en kısa sürede bir yetkilimiz talebinizi yanıtlayacaktır.
+---------------------
+Talebi İncele:  {ticket_link}

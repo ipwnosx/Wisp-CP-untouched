@@ -1,0 +1,10 @@
+Sn. {user_full_name}
+
+{from_full_name} adlı müşterimiz, aşağıda detayları verilen ürün/hizmeti tarafınıza transfer etmek istiyor. 
+
+Bu işlemi onaylıyorsanız lütfen tıklayın;
+{approve_link}
+
+Hizmet Bilgileri
+------------------------------------
+{order_name} | {order_amount}

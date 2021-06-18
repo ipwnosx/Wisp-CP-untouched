@@ -1,0 +1,9 @@
+Your domain name is canceled.
+
+If you think that this is a mistake and want your service to be activated again, you can create a support ticket through the support system by logging in to the client area.
+
+We are always happy to help you.
+
+Your Domain Name
+------------------------------------
+{domain}

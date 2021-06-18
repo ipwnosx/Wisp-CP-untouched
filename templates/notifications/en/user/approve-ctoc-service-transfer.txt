@@ -1,0 +1,10 @@
+Dear {user_full_name}
+
+Our customer named {from_full_name}, would like to transfer the product/service detailed below to you. 
+
+If you approve this process, please click;
+{approve_link}
+
+Product/Service Details
+------------------------------------
+{order_name} | {order_amount}

@@ -1,0 +1,5 @@
+The status of your support ticket titled "{ticket_subject}" has been updated to "In Progress".
+
+This message has been sent to you to inform you that your support ticket has been read our staff and requires a thorough review/evaluation.
+
+Details:  {ticket_link}

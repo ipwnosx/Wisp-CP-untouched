@@ -1,0 +1,13 @@
+<?php 
+return [
+    'meta-title-successful'   => "\xc3\x96deme Ba\xc5\x9far\xc4\xb1l\xc4\xb1",
+    'meta-title-failed'       => "\xc3\x96deme Ba\xc5\x9far\xc4\xb1s\xc4\xb1z",
+    'header-title-successful' => "\xc3\x96deme Ba\xc5\x9far\xc4\xb1l\xc4\xb1",
+    'header-title-failed'     => "\xc3\x96deme Ba\xc5\x9far\xc4\xb1s\xc4\xb1z",
+    'success-text1'           => "\xc4\xb0\xc5\x9fleminiz Ba\xc5\x9far\xc4\xb1yla Tamamlanm\xc4\xb1\xc5\x9ft\xc4\xb1r.",
+    'success-text2'           => "Sat\xc4\xb1n ald\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1z t\xc3\xbcm \xc3\xbcr\xc3\xbcn ve hizmetleri y\xc3\xb6netmek i\xc3\xa7in, <strong>\"M\xc3\xbc\xc5\x9fteri Paneli / \xc3\x9cr\xc3\xbcn ve Hizmetler\"</strong> b\xc3\xb6l\xc3\xbcm\xc3\xbcnden i\xc5\x9flem sa\xc4\x9flayabilirsiniz.<br><br>Bizi tercih etti\xc4\x9finiz i\xc3\xa7in te\xc5\x9fekk\xc3\xbcr ederiz.",
+    'success-button1'         => "\xc3\x9cr\xc3\xbcn ve Hizmetlerim",
+    'fail-text1'              => "\xc4\xb0\xc5\x9flem Ba\xc5\x9far\xc4\xb1s\xc4\xb1z.",
+    'fail-text2'              => "<strong>\xc3\x96deme i\xc5\x9fleminiz baz\xc4\xb1 nedenlerden dolay\xc4\xb1 ba\xc5\x9far\xc4\xb1s\xc4\xb1zl\xc4\xb1kla sonu\xc3\xa7land\xc4\xb1. </strong><br>Bu, genelde kredi kart\xc4\xb1n\xc4\xb1z\xc4\xb1n \xc3\xb6deme i\xc5\x9flemi i\xc3\xa7in uygun olmamas\xc4\xb1ndan kaynaklan\xc4\xb1r.<br><br>\nE\xc4\x9fer s\xc3\xbcrekli ayn\xc4\xb1 durumu ya\xc5\x9f\xc4\xb1yorsan\xc4\xb1z l\xc3\xbctfen bizimle ileti\xc5\x9fim kurunuz.<br><br>\n<strong>Sepetinize d\xc3\xb6nerek i\xc5\x9flemi tekrar ba\xc5\x9flatabilirsiniz.</strong>",
+    'fail-button1'            => 'Sepete Git',
+];

@@ -1,0 +1,8 @@
+The administrator named {ticket_assigned_by_admin} has assigned a support request {ticket_subject} to you.
+------------------------------------
+Your Service: {ticket_service}
+------------------------------------
+Client: {user_full_name} {user_company_name}
+------------------------------------
+Client Message: 
+{user_last_message}

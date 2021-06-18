@@ -1,0 +1,9 @@
+Your service has been suspended.
+
+If you think that this is a mistake or want your service to be activated again, you can create a ticket through support by logging in to the client area.
+
+We are always happy to help you.
+
+Your Service Detail
+------------------------------------
+{order_name} - {order_amount}

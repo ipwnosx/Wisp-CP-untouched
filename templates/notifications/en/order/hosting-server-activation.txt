@@ -1,0 +1,5 @@
+The activation information can be found below for the order: {order_name}
+
+Service Details
+------------------------------------
+{order_name} ({order_date_start} - {order_date_end}) - {order_amount}

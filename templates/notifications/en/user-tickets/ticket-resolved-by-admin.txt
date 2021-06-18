@@ -1,0 +1,3 @@
+Your support ticket titled "{ticket_subject}" is marked as resolved as you did not respond to the ticket for a long time. If your problem persists, you can re-open your ticket by responding to it.
+
+Details:  {ticket_link}

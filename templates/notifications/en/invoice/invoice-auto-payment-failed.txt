@@ -1,0 +1,6 @@
+We tried to pay your invoice #{invoice_id} numbered with your credit card ending {card_ln4}. However, the process failed due to the reason explained below.
+
+Response from your bank;
+{error_message}
+
+If you can make your credit card valid, we'll try the payment again for a few days. You will be notified when your invoice is paid.

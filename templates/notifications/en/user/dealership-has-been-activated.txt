@@ -1,0 +1,11 @@
+Dear reseller,
+
+Thank you for your interest
+
+Your reseller information can be found below
+
+Discounts that will apply automatically in your cart during order
+
+{dealership_information}
+
+Wishing to work with you for many years

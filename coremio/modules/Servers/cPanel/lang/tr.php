@@ -1,0 +1,26 @@
+<?php 
+return [
+    'select-plan'              => "Hosting Plan\xc4\xb1 Se\xc3\xa7",
+    'reseller-account'         => "Reseller Tan\xc4\xb1mla",
+    'reseller-settings'        => "Bayilik Ayarlar\xc4\xb1",
+    'reseller-acllist-apply'   => 'Yetki (ACL List)',
+    'reseller-limits'          => 'Limitler',
+    'account-open-limit-apply' => "Hesap Olu\xc5\x9fturma Limiti Uygula",
+    'account-open-limit'       => "Hesap A\xc3\xa7ma Limiti",
+    'limit-resource-usage'     => "Kaynak Kullan\xc4\xb1m\xc4\xb1n\xc4\xb1 Limitlendir",
+    'limit-warning'            => " Bu de\xc4\x9fer, \"Reseller\" limitlerinden y\xc3\xbcksek olamaz.",
+    'standard'                 => 'Standart',
+    'text1'                    => "Hosting Eri\xc5\x9fim Bilgileriniz",
+    'text2'                    => "Kullan\xc4\xb1c\xc4\xb1 Ad\xc4\xb1",
+    'text3'                    => 'Parola',
+    'text4'                    => "Not: cPanel ve FTP kullan\xc4\xb1c\xc4\xb1 giri\xc5\x9fleri ayn\xc4\xb1d\xc4\xb1r.",
+    'text5'                    => "Outlook Yap\xc4\xb1land\xc4\xb1rma Bilgisi;",
+    'text6'                    => 'Giden Sunucu',
+    'text7'                    => 'Gelen Sunucu',
+    'text8'                    => 'Giden Port',
+    'text9'                    => 'Gelen Port',
+    'text10'                   => [
+        'content'   => "Not: {mail_panel_link} \xc3\xbczerinden de maillerinize ula\xc5\x9fabilir ve mail g\xc3\xb6nderip/al\xc4\xb1m yapabilirsiniz.",
+        'variables' => '{mail_panel_link}',
+    ],
+];

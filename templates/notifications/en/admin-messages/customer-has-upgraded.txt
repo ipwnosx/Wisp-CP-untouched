@@ -1,0 +1,7 @@
+A client has upgraded to a new package, this message is sent to inform you.
+
+Details:
+------------------------
+Old Package: {product_old_name} - {product_old_amount}
+New Package: {product_new_name} - {product_new_amount}
+Difference Fee: {difference_fee}

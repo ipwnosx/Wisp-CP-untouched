@@ -1,0 +1,9 @@
+Your service has been canceled.
+
+If you think this is a mistake and want your service to be activated again, you can create a ticket through client area.
+
+We are always happy to help you.
+
+Your Service Detail
+------------------------------------
+{order_name} - {order_amount}

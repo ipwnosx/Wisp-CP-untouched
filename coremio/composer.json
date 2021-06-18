@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "~5.2",
+        "riimu/kit-phpencoder": "^2.3",
+        "stichoza/google-translate-php": "^3.2",
+        "giggsey/libphonenumber-for-php": "^8.8",
+        "maxmind/minfraud": "~1.0",
+        "symfony/polyfill-iconv": "^1.20"
+    }
+}

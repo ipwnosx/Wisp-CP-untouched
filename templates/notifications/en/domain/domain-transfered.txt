@@ -1,0 +1,5 @@
+The domain transfer order on: {order_date_created} with domain name {domain} has been successfully transferred.
+
+Yyour domain name will expire on {order_date_end}. It is recommended to renew domain before this date.
+
+You will be notified when renewal is near.

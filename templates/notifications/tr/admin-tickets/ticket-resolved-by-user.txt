@@ -1,0 +1,5 @@
+Sn. {ticket_admin_name}
+
+{user_full_name} müşterisi {ticket_subject} destek talebini çözümlendi olarak işaretledi.
+---------------------
+Talebi İncele:  {ticket_link}

@@ -1,0 +1,5 @@
+Sn. {user_full_name}
+
+Bir yetkilimiz tarafınıza {ticket_subject} başlıklı bir bildirim oluşturmuştur. Konuyu bilgilerinize sunarız.
+---------------------
+Bildirimi İncele:  {ticket_link}

@@ -1,0 +1,8 @@
+Sn. {user_full_name}
+
+Hesap krediniz belirlediğiniz {user_min_credit} tutarın altına düşmüştür.
+
+Ürün ve hizmet faturalarınızın hesap kredinizden otomatik olarak ödenebilmesi için, hesabınızda yeterli düzeyde kredi bulunması gerekir.
+
+Hesabınıza Kredi Yüklemek için;
+{user_credit_link}

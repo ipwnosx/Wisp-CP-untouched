@@ -1,0 +1,9 @@
+Sn. {ticket_admin_name}
+
+{user_full_name} adlı müşteri, {product_old_name} paketinden, {product_new_name} paketine yükseltme yapmayı denedi. Fakat bu işlem yönetici müdahalesi gerektirmektedir.
+
+İşlem Bilgileri;
+------------------------
+Eski Paket: {product_old_name} - {product_old_amount}
+Yeni Paket: {product_new_name} - {product_new_amount}
+Fark Ücreti: {difference_fee}

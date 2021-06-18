@@ -1,0 +1,6 @@
+Dear {user_full_name}
+
+We are glad you have joined us ♥
+
+You are now able to order any services from us
+You can also get support at any time regarding the services you purchase

@@ -1,0 +1,20 @@
+<?php 
+return [
+    'invoice-name'         => 'CoinPayments',
+    'option-name'          => 'CoinPayments',
+    'name'                 => 'CoinPayments',
+    'redirect-message'     => 'Redirecting to CoinPayments...',
+    'description'          => '',
+    'merchant_id'          => 'Merchant ID',
+    'ipn_secret'           => 'IPN secret',
+    'email'                => 'Email',
+    'want_shipping'        => 'Include shipping information',
+    'merchant_id-desc'     => '',
+    'ipn_secret-desc'      => '',
+    'email-desc'           => '',
+    'want_shipping-desc'   => '',
+    'commission-rate'      => 'Commission Rate (%)',
+    'commission-rate-desc' => 'Enter the percentage (%) value for commission fees',
+    'save-button'          => 'Save Settings',
+    'success1'             => 'Settings Saved Successfully',
+];

@@ -1,0 +1,23 @@
+<?php 
+return [
+    'name'                     => 'Standart SMTP',
+    'settings-type'            => "T\xc3\xbcr\xc3\xbc",
+    'settings-host'            => 'Smtp Mail Server',
+    'settings-host-desc'       => '',
+    'settings-secure'          => "G\xc3\xbcvenlik Protokol\xc3\xbc",
+    'settings-secure-desc'     => '',
+    'settings-secure-none'     => 'Yok',
+    'settings-port'            => 'Port',
+    'settings-port-desc'       => 'Genelde 587 veya 25 dir. ',
+    'settings-username'        => "E-Posta (Kullan\xc4\xb1c\xc4\xb1 Ad\xc4\xb1)",
+    'settings-username-desc'   => '',
+    'settings-password'        => "\xc5\x9eifre",
+    'settings-password-desc'   => '',
+    'settings-from-name'       => "G\xc3\xb6nderici Ad\xc4\xb1",
+    'settings-from-name-desc'  => "G\xc3\xb6nderilen e-postalarda g\xc3\xb6r\xc3\xbcnecek ba\xc5\x9fl\xc4\xb1k.",
+    'save-settings-button'     => "Ayarlar\xc4\xb1 Kaydet",
+    'settings-save-successful' => "Ayarlar Ba\xc5\x9far\xc4\xb1yla Kaydedildi.",
+    'test-smtp-connect'        => "Ba\xc4\x9flant\xc4\xb1y\xc4\xb1 Test Et",
+    'success1'                 => "Ba\xc4\x9flant\xc4\xb1 testi ba\xc5\x9far\xc4\xb1l\xc4\xb1.",
+    'error1'                   => "Ba\xc4\x9flant\xc4\xb1 testi ba\xc5\x9far\xc4\xb1s\xc4\xb1z.",
+];

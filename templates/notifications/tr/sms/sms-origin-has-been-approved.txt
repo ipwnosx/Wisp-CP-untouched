@@ -1,0 +1,4 @@
+{order_name} SMS paketinize ait {origin_name} sms başlığı talebiniz, onaylanmış ve hesabınıza tanımlanmıştır.
+
+Aşağıdaki bağlantı üzerinden sms yönetim panelinize ulaşabilirsiniz.
+{origin_detail_link}

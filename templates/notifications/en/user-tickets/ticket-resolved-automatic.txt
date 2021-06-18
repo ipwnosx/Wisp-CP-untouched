@@ -1,0 +1,5 @@
+Your support ticket titled "{ticket_subject}" is marked as resolved by the system because you have not responded to the ticket for a long time. If your problem persists, you can re-open your support ticket by responding to it.
+
+Your Service: {ticket_service}
+
+Ticket Details:  {ticket_link}

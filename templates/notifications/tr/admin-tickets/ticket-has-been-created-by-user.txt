@@ -1,0 +1,5 @@
+Sn. {ticket_admin_name}
+
+{user_full_name} müşterisi {ticket_subject} başlıklı bir destek talebi oluşturdu.
+---------------------
+Talebi İncele:  {ticket_link}

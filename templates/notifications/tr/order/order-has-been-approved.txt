@@ -1,0 +1,21 @@
+Sn. {user_full_name}
+
+Aşağıda detayları verilen siparişiniz onaylanmıştır.
+
+Aktivasyon ve kurulum gerektiren siparişleriniz için, tarafınıza ayrıca bilgilendirme yapılacaktır.
+
+Bizi tercih ettiğiniz için teşekkür ederiz.
+
+Sipariş Bilgileri;
+-----------------
+{order_name} - {order_amount}
+-----------------
+Hizmet Başlangıç: {order_date_start}
+Hizmet Bitiş: {order_date_end}
+-----------------
+
+Sipariş detayı için tıklayınız;
+{order_detail_link}
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

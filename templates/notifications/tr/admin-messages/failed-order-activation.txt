@@ -1,0 +1,7 @@
+Sn. Yönetici
+
+{order_items} siparişinin aktivasyonu, umulmadık bir şekilde başarısızlıkla sonuçlandı. 
+
+Hata Mesajı: {error_message}
+
+Sipariş Detayı: {order_detail_link}

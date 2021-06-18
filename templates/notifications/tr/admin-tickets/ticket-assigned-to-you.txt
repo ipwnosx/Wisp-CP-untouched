@@ -1,0 +1,5 @@
+Sn. {ticket_admin_name}
+
+{ticket_assigned_by_admin} yöneticisi {ticket_subject} destek talebini tarafınıza yönlendirdi.
+---------------------
+Talebi İncele:  {ticket_link}

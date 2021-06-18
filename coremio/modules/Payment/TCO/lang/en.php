@@ -1,0 +1,22 @@
+<?php 
+return [
+    'invoice-name'         => '2Checkout',
+    'option-name'          => '2checkout',
+    'name'                 => '2Checkout',
+    'redirect-message'     => 'You are redirecting to 2checkout',
+    'description'          => 'To accept the payments through 2Checkout, please fill the required fields below and must activate "Instant Payment Notification" in your 2Checkout account and add the Notify URL mentioned below.',
+    'seller-id'            => 'Account ID',
+    'seller-id-desc'       => '',
+    'secret-word'          => 'Secret word',
+    'secret-word-desc'     => 'You can find this information on  "My Account / Site Management / Payment Options"',
+    'demo-mode'            => 'Demo Mode',
+    'demo-mode-desc'       => 'Can be used to test the payment method',
+    'sandbox'              => 'Sandbox Mode',
+    'sandbox-desc'         => 'To process the requests using sandbox',
+    'commission-rate'      => 'Commission rate (%)',
+    'commission-rate-desc' => 'Enter the percentage (%) value for commission fees',
+    'notify-url'           => 'Approved URL',
+    'notify-url-desc'      => 'Enter this information in the  "Approved URL" section on "My Account / Site Management / Payment Options". Also, specify the direct return field as "Header redirect (Your URL)". It is required to do these changes so that the system can record the payments.',
+    'save-button'          => 'Save Settings',
+    'success1'             => 'Settings saved successfully',
+];

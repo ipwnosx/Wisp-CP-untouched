@@ -1,0 +1,5 @@
+The client named {user_full_name}, created a support ticket with title: {ticket_subject}.
+
+Service: {ticket_service}
+
+Request Details:  {ticket_link}

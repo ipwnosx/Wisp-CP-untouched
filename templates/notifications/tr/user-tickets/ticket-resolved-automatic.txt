@@ -1,0 +1,6 @@
+Sn. {user_full_name}
+
+{ticket_subject} başlıklı destek talebiniz, uzun süredir sizden yanıt alamadığımız için çözümlendi olarak işaretlenmiştir.
+---------------------
+Talebi İncele:  {ticket_link}
+

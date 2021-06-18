@@ -1,0 +1,8 @@
+A customer named "{user_full_name}" created a request for the international SMS Sender ID.
+
+Sender ID: {origin_name}
+
+Country: {country}
+
+Manage SMS Sender ID
+{origin_detail_link}

@@ -1,0 +1,9 @@
+Sn. {user_full_name}
+
+{invoice_id} numaralı faturanız, {invoice_refund_date} tarihinde iade edilmiştir.
+
+{invoice_items}
+------------------------------------
+Ara Toplam: {invoice_subtotal}
+Vergi ({invoice_tax_rate}): {invoice_tax}
+Ödenen Tutar: {invoice_total}

@@ -1,0 +1,5 @@
+Sn. {admin_name}
+
+{by_name} tarafından size atanan yeni bir görev oluşturulmuştur. Detaylara aşağıdaki bağlantı üzerinden ulaşabilirsiniz.
+
+{detail_link}

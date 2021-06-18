@@ -1,0 +1,9 @@
+Your support ticket titled "{ticket_subject}" has been created.
+
+Our staff will respond to your ticket as soon as possible.
+
+Your Service: {ticket_service}
+
+Your Message; {user_last_message}
+
+Request Details:  {ticket_link}

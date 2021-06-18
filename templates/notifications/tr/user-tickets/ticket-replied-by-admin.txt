@@ -1,0 +1,5 @@
+Sn. {user_full_name}
+
+{ticket_subject} başlıklı destek talebiniz, bir yetkilimiz tarafından yanıtlanmıştır.
+---------------------
+Talebi İncele:  {ticket_link}

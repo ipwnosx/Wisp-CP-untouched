@@ -1,0 +1,1 @@
+Registration period of your domain name {domain} has been extended to {order_date_end}.

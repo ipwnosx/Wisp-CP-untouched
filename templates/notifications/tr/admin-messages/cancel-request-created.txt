@@ -1,0 +1,12 @@
+Bir müşteri, mevcut hizmeti ile ilgili iptal talebinde bulunmuştur. Detaylar aşağıda açıklanmıştır.
+
+Müşteri: {user_full_name} {user_company_name}
+------------------------------------
+Ürün/Hizmet: {order_name} - {order_amount}
+------------------------------------
+Başlangıç/Bitiş: {order_date_start} - {order_date_end}
+------------------------------------
+İptal Önceliği: {cancel_urgency}
+------------------------------------
+İptal Sebebi: {cancel_reason}
+------------------------------------

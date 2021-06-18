@@ -1,0 +1,5 @@
+Your {domain} domain name ordered on {order_date_created} has been successfully registered.
+
+Your domain name will expire on {order_date_end}. It is recommended to renew the domain before this date.
+
+You will be notified when renewal date is near.

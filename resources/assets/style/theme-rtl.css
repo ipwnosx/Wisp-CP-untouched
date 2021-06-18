@@ -1,0 +1,80 @@
+body{direction:rtl}
+.clean-theme-header-logo{float:right;margin-left:65px}
+.menu li{float:right}
+.menu ul li ul li a{text-align:right;    padding-right: 10px;}
+.mpanelhaber{text-align:right}
+#checkButton{margin-right:-158px}
+.clean-theme-signup-box{text-align:right}
+.clean-theme-signup-box-title{float:right}
+.intl-tel-input.allow-dropdown .flag-container,.intl-tel-input.separate-dial-code .flag-container{right:0}
+.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input,.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=text],.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=tel]{padding-right:84px}
+.intl-tel-input.separate-dial-code .selected-dial-code{padding-right:35px;padding-left:0px}
+.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input,.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input[type=text],.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input[type=tel]{padding-right:105px}
+#gsm{padding-right:110px}
+.intl-tel-input .selected-flag{padding-right:18px}
+.intl-tel-input .country-list{text-align:right}
+.clean-theme-signinup-right-title h4{float:right}
+.scriptlisttitle{text-align:right}
+.scriptkategoriler{text-align:right}
+.domainsec .alanadisorgu .gonderbtn{margin-right:-160px}
+.siparisbilgileri .alanadisorgu{text-align:right}
+.ilanasamalar{z-index:25;position:relative}
+.billremininfo{text-align:right}
+.invoicereminleft img{z-index:-5}
+.all-payment-auto-approval{text-align:right}
+.clean-theme-header-right-btns ul li ul li{text-align:right}
+.iziModal .iziModal-header.iziModal-noSubtitle .iziModal-header-title{text-align:right}
+.mclientlastblocks table tr td{text-align:right}
+.mclientlastblocks table tr th{text-align:right}
+input.sitemio-checkbox:checked+label.sitemio-checkbox-label::after{right:18px}
+label.sitemio-checkbox-label{float:right;margin-right:0px}
+label.sitemio-checkbox-label::after{right:0}
+.notifi-count{margin-right:-10px}
+.mpanelrightcon .intl-tel-input.allow-dropdown .flag-container,.intl-tel-input.separate-dial-code .flag-container{right:0;left:auto}
+.menu ul li ul{right:0}
+.bbbaslik{float:right;margin-left:20px}
+.breadcrumb{float:left}
+.rightcontent{float:left}
+.menu{float:left}
+.footinfos{float:right}
+.invoiceremind .red-info i{left:auto;right:-20px}
+.green-info i{right:-15px;left:auto}
+.blue-info i{right:-15px;left:auto}
+.red-info i{right:-15px;left:auto}
+.checkbox-custom,.checkbox-custom-label,.radio-custom,.radio-custom-label span{margin-right:10px}
+.checkbox-custom+.checkbox-custom-label:before,.radio-custom+.radio-custom-label:before{margin-left:10px}
+#modernpanel .wclientnotification{right:25%}
+.wnotifilisticon{float:right}
+.sayfacontent{float:left}
+.sidebar{float:right}
+.sepetright{float:left}
+.sepetleft{float:right}
+.sepetlist{position:relative}
+.row-label{left:0px}
+.uhinfo h4 a{float:right}
+.uhinfo{float:right}
+.uhperiyod{float:right}
+.uhtutar{float:right}
+.uhsil{float:left}
+.sepetlistcon .checkbox-custom-label{margin-left:25px;margin-right:-10px}
+.footsosyal{float:left}
+.gprimage{float:right}
+.sosyalbtns{float:right}
+#haveAddress a strong{margin-left:20px}
+.securityinfo-left{float:right}
+.creditcardinfo-right{float:left}
+#modernpanel .red-info i{left:auto}
+.msjyazan h5{float:left}
+.msjyazan h4{float:right}
+table.dataTable tbody th,table.dataTable tbody td{text-align:right}
+.mblokbtn{text-align:right}
+.mblokbtn span{float:right;margin-left:5px}
+.logo{text-align:right}
+.uyeolgirisslogan h4{text-align:right}
+.uyeolgirisslogan-con .gonderbtn{float:right}
+#uyeolgirisbody #uyeolgiris #gsm{padding-right:100px}
+.tp-parallax-wrap{direction:ltr}
+#sepeticon span{margin-right:-10px;left:auto}
+.homedomainarea input[type="submit"]{margin-left:auto;margin-right:-155px}
+#compnayinfo{text-align:right;border:none}
+.line{float:none;clear:both}

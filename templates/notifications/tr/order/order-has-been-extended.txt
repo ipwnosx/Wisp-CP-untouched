@@ -1,0 +1,8 @@
+Sn. {user_full_name}
+
+{order_name} siparişinizin hizmet bitiş tarihi, {order_date_end} olarak güncellenmiştir.
+
+Bizi tercih ettiğiniz için teşekkür ederiz.
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

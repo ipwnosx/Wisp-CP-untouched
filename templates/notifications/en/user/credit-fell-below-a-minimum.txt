@@ -1,0 +1,6 @@
+Your Account Funds is now below the limit: {user_min_credit}.
+
+In order to automatically pay from your account funds, your account must have sufficient funds.
+
+Please click below to add funds.
+{user_credit_link}

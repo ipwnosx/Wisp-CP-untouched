@@ -1,0 +1,6 @@
+Sn. {user_full_name}
+
+{invoice_id} numaralı faturanız, {invoice_date_created} tarihinde üretilmiş olup, detaylar kayıtlı e-posta adresinize gönderilmiştir.
+
+Faturanızı görüntülemek için;
+{invoice_payment_link}

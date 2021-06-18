@@ -1,0 +1,5 @@
+Sn. {user_full_name}
+
+{invoice_id} numaralı, {invoice_total} tutarındaki faturanızı ödediğiniz için teşekkür ederiz.
+
+İyi çalışmalar dileriz.

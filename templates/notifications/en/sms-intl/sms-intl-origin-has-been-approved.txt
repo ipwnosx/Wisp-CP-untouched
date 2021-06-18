@@ -1,0 +1,6 @@
+Your request for the SMS sender ID "{origin_name}" is approved and added in your account.
+
+------------------------------------
+Sender ID: {origin_name}
+------------------------------------
+Country: {country}

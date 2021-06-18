@@ -1,0 +1,8 @@
+Müşteri görüş formu aracılığı ile gönderilen mesaj detayları aşağıda yer almaktadır.
+
+Adı Soyadı: {customer_full_name}
+E-Posta: {customer_email}
+IP No: {user_ip}
+
+Mesajı: 
+{customer_message}

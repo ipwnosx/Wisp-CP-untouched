@@ -1,0 +1,11 @@
+Bir müşteri, mevcut hizmet paketinden daha yüksek bir pakete otomatik olarak yükseltme işlemi yaptı. Bu mesaj sizi bilgilendirme için gönderildi.
+
+İşlem Detayları;
+------------------------------------
+Müşteri: {user_full_name} {user_company_name}
+------------------------------------
+Eski Hizmet: {product_old_name} - {product_old_amount}
+------------------------------------
+Yeni Hizmet: {product_new_name} - {product_new_amount}
+------------------------------------
+Fark Ücreti: {difference_fee}

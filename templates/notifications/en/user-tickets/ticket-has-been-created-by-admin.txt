@@ -1,0 +1,5 @@
+One of our staff has created a support ticket titled "{ticket_subject}".
+
+Your Service: {ticket_service}
+
+Request Details:  {ticket_link}

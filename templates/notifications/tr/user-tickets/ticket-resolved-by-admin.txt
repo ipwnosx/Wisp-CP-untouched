@@ -1,0 +1,5 @@
+{ticket_subject} başlıklı destek talebiniz, uzun süredir sizden yanıt alamadığımız için, çözümlendi olarak işaretlenmiştir. Eğer sorununuz devam ediyorsa destek talebine tekrar yazabilirsiniz.
+
+Eğer sorununuz devam ediyorsa destek talebine bir süre daha tekrar yazabilirsiniz.
+
+Talebi İncele:  {ticket_link}

@@ -1,0 +1,11 @@
+A client has requested the cancellation of current service. Details can be found below.
+
+Client: {user_full_name} {user_company_name}
+------------------------------------
+Service: {order_name} - {order_amount}
+------------------------------------
+Start/End Date: {order_date_start} - {order_date_end}
+------------------------------------
+Priority: {cancel_urgency}
+------------------------------------
+Reason: {cancel_reason}

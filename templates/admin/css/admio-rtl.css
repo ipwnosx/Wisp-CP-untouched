@@ -1,0 +1,101 @@
+body{direction:rtl}
+.logo{float:right}
+.yonetici{float:left}
+.yoneticiimg{float:left;margin-right:5px}
+.yoneticinfos{float:left;text-align:left}
+#notifiballonalert{left:-5px;right:auto}
+.yonetici a{margin-right:15px;margin-left:0px}
+.yoneticinfos i{margin-left:5px}
+.smartsearch{margin-left:0;margin-right:40px}
+.smartsearch .fa-search{left:0px;right:auto}
+.menu{float:right}
+.menu li{float:right}
+.menu ul li ul li a{text-align:right;padding:0 10px 0px 0px}
+.menu ul li ul{left:auto}
+.admanabloks .icerikbaslik .lbtn{float:left}
+.icerikbaslik h1{float:right;margin-right:0px}
+.hoverblock h4 span{padding-right:45px;float:right;margin-top:5px;padding-left:0;text-align:right}
+.hoverblock h4{text-align:right}
+.adminblok i{left:15px;right:auto}
+.adminblok h2{text-align:right}
+.adminblok h4{float:right;text-align:right}
+.hoverblock #istatisticsbtn i{right:5px}
+table tr th{text-align:right}
+table tr td{text-align:right}
+#anablokbaslik i{margin-right:0;margin-left:10px}
+#widget-pending_tickets .listingstatus{float:left}
+#ordersTable tbody tr td:nth-child(1),#ordersTable tbody tr td:nth-child(2){text-align:right}
+#ordersTable tbody tr td:nth-child(1),#ordersTable tbody tr td:nth-child(2){text-align:left}
+.checkbox-custom+.checkbox-custom-label:before,.radio-custom+.radio-custom-label:before{margin-left:10px;margin-right:0}
+#datatable tbody td:nth-child(-n+2){text-align:right}
+#datatable thead th:nth-child(-n+2){text-align:right}
+#auto_refresh_every_minute_wrap{margin-right:25px}
+.sayfayolu{float:left;text-align:left}
+.reports-content{float:left}
+.reportside{float:right}
+.reportside ul li a i{margin-right:0;margin-left:10px}
+.menu ul li ul li ul{right:240px}
+.smartsleft a span i{margin-right:0px;margin-left:10px}
+.smartsright{float:left}
+.smartsearch .listingstatus{margin-left:10px}
+input.sitemio-checkbox:checked+label.sitemio-checkbox-label::after{right:18px}
+input.sitemio-checkbox:checked+label.sitemio-checkbox-label::after{right:18px}
+label.sitemio-checkbox-label{float:right;margin-right:0;margin-left:10px}
+input.sitemio-checkbox:checked+label.sitemio-checkbox-label::after{right:18px}
+input.sitemio-checkbox:checked+label.sitemio-checkbox-label::after{right:18px}
+input.sitemio-checkbox:checked+label.sitemio-checkbox-label::after{left:18px}
+label.sitemio-checkbox-label::after{left:auto;right:1.5px}
+ul.tab li{float:right}
+.select2-container--default .select2-selection--single .select2-selection__rendered{text-align:right}
+.green-info i{right:-15px;left:auto}
+.blue-info i{right:-15px;left:auto}
+.red-info i{right:-15px;left:auto}
+.domainpricingsetting{margin-left:25px}
+#updateForm_submit{float:right}
+.nestablebtns{left:10px;right:auto}
+.verticaltabs ul.tab{float:right}
+.verticaltabs ul.tab li a span{float:right}
+.verticaltabs .tabcontent{float:left}
+.verticaltabstitle h2{text-align:left}
+.msjyazan h4{float:right}
+.msjyazan h5{float:left}
+[data-tooltip]:after,.tooltip:after,.tooltip-top:after{margin-right:-75px;margin-left:auto}
+.systemhealth-status-title-info{text-align:right}
+.bottombtns{padding-right:40px;padding-left:0;text-align:right}
+.bottombtns .radio-custom-label{margin-left:15px}
+.hetznerbulkupdate{margin-left:30px}
+.icerikbaslik img{margin-right:27px}
+.guncellebtn.yuzde30{display:block}
+.langenableinfo{text-align:right}
+.iziModal .iziModal-header-subtitle,.iziModal .iziModal-header-title{text-align:right}
+div.mce-edit-area{text-align:right}
+.dashboardcon{right:-43px}
+.dashboardcoc{float:left;margin-right:-4px}
+.dashboardcon{right:-284px}
+.avatarguncelle{margin-right:40px}
+.intl-tel-input.allow-dropdown .flag-container,.intl-tel-input.separate-dial-code .flag-container{right:0}
+.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input,.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=text],.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 input[type=tel]{padding-right:84px}
+.intl-tel-input.separate-dial-code .selected-dial-code{padding-right:35px;padding-left:0px}
+.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input,.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input[type=text],.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-5 input[type=tel]{padding-right:105px}
+#gsm{padding-right:110px}
+.intl-tel-input .selected-flag{padding-right:18px}
+.intl-tel-input .country-list{text-align:right}
+.dataTable thead th:nth-child(-n+4){text-align:right}
+.dataTable tbody td:nth-child(-n+4){text-align:right}
+.domainpricinglist .dataTable thead th:nth-child(-n+4){text-align:right}
+.domainpricinglist .dataTable tbody td:nth-child(-n+4){text-align:right}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px){
+    #mobnotifibtn{left:0;right:auto;float:left;margin-left:140px;margin-right:0}
+    .menu{right:auto;left:0}
+    .mobyonbtn{float:left;margin-left:15px}
+    .menuAc{margin-left:10px;margin-right:0;float:left}
+    .yoneticinfos{float:right;text-align:right}
+    .yoneticiimg{float:right;margin-left:15px;margin-right:-10px}
+    .adminblok .padding10{padding-right:10px;padding-left:0px}
+    .hoverblock{display:none}
+    #endtimecoming .padding10{padding-right:10px;padding-left:0px}
+    #overdue-invoice .padding10{padding-right:10px;padding-left:0px}
+    #todayreminder .padding10{padding-right:10px;padding-left:0px}
+    #order-inprocess .padding10{padding-right:10px;padding-left:0px}
+}

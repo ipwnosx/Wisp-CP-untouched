@@ -1,0 +1,8 @@
+The client marked the support ticket as "resolved".
+------------------------------------
+Service: {ticket_service}
+------------------------------------
+Client: {user_full_name} {user_company_name}
+------------------------------------
+Client Message: 
+{user_last_message}

@@ -1,0 +1,8 @@
+Sn. {user_full_name}
+
+{order_name} siparişinize ait, kurulum ve aktivasyon bilgileriniz kayıtlı e-posta adresinize gönderilmiştir.
+
+Bizi tercih ettiğiniz için teşekkür ederiz.
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

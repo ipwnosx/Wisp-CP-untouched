@@ -1,0 +1,7 @@
+Sn. {user_full_name}
+
+{order_name} alan adınız, bazı nedenlerden dolayı iptal edilmiştir.
+
+Bunun bir hata olduğunu düşünüyor veya hizmetinizin tekrar aktif edilmesini istiyorsanız, müşteri panelize giriş yaparak "Destek Sistemi" üzerinden bir talep oluşturabilirsiniz.
+
+Size yardımcı olmaktan memnuniyet duyarız.

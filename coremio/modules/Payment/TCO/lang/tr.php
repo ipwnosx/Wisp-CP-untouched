@@ -1,0 +1,22 @@
+<?php 
+return [
+    'invoice-name'         => '2Checkout',
+    'option-name'          => "2Checkout ile \xc3\xb6de",
+    'name'                 => '2Checkout',
+    'redirect-message'     => "2Checkout'a Y\xc3\xb6nlendiriliyor...",
+    'description'          => "2Checkout ile t\xc3\xbcm d\xc3\xbcnyada \xc3\xb6deme kabul edebilmek i\xc3\xa7in a\xc5\x9fa\xc4\x9f\xc4\xb1daki gerekli alanlar\xc4\xb1 doldurunuz ve 2Checkout hesab\xc4\xb1n\xc4\xb1z\xc4\xb1n ''An\xc4\xb1nda \xc3\x96deme Bildirimi'' \xc3\xb6zelli\xc4\x9fini aktif edip a\xc5\x9fa\xc4\x9f\xc4\xb1daki bildirim url bilgilerini tan\xc4\xb1mlay\xc4\xb1n\xc4\xb1z.",
+    'seller-id'            => 'Account ID',
+    'seller-id-desc'       => '',
+    'secret-word'          => 'Secret Word',
+    'secret-word-desc'     => "Bu bilgiyi Hesab\xc4\xb1m > Site Y\xc3\xb6netimi > \xc3\x96deme Se\xc3\xa7eneklerinde bulabilirsiniz.",
+    'demo-mode'            => 'Demo Modu',
+    'demo-mode-desc'       => "Aktif etti\xc4\x9finiz taktirde kredi kart\xc4\xb1 bilgilerini girmeden \xc3\xb6deme yapabilirsiniz.",
+    'sandbox'              => 'Sandbox Modu',
+    'sandbox-desc'         => "Aktif edildi\xc4\x9finde istekler sandbox \xc3\xbczerinden ger\xc3\xa7ekle\xc5\x9fir.",
+    'commission-rate'      => "Komisyon Oran\xc4\xb1 (%)",
+    'commission-rate-desc' => "Komisyon \xc3\xbccreti yans\xc4\xb1tmak % de\xc4\x9fer giriniz. (Ge\xc3\xa7ersiz k\xc4\xb1lmak i\xc3\xa7in bo\xc5\x9f b\xc4\xb1rak\xc4\xb1n\xc4\xb1z.) ",
+    'notify-url'           => 'Approved URL',
+    'notify-url-desc'      => "Bu bilgiyi Hesab\xc4\xb1m > Site Y\xc3\xb6netimi > \xc3\x96deme Se\xc3\xa7eneklerinde bulunan \"Onaylanan URL\" b\xc3\xb6l\xc3\xbcm\xc3\xbcne yaz\xc4\xb1n\xc4\xb1z. Ayr\xc4\xb1ca Direkt D\xc3\xb6n\xc3\xbc\xc5\x9f alan\xc4\xb1n\xc4\xb1 \"Header Redirect (Your URL)\" olarak belirleyiniz. Aksi halde \xc3\xb6demeler sistem taraf\xc4\xb1nda i\xc5\x9flenemez.",
+    'save-button'          => "Ayarlar\xc4\xb1 Kaydet",
+    'success1'             => "Ayarlar Ba\xc5\x9far\xc4\xb1yla Kaydedildi.",
+];

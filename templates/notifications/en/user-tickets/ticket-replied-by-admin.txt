@@ -1,0 +1,5 @@
+Your support ticket titled "{ticket_subject}" has been answered by our staff.
+
+Your Service: {ticket_service}
+
+Ticket Details:  {ticket_link}

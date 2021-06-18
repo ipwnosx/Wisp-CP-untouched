@@ -1,0 +1,10 @@
+Sn. {user_full_name}
+
+{order_name} alan adınızın, tescil süresi {order_date_end} tarihine kadar uzatılmıştır.
+
+Alan adınızın tescil süresi {order_date_end} tarihinde son bulacaktır. Bu tarihten önce alan adınızın süresini uzatmanızı öneririz.
+
+Bizi tercih ettiğiniz için teşekkür ederiz.
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

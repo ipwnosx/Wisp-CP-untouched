@@ -1,0 +1,6 @@
+Sn. {user_full_name}
+
+Doğrulama kodunuz: {activation_code}
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

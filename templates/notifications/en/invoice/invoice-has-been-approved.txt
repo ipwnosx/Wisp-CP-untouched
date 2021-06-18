@@ -1,0 +1,13 @@
+Thank you for paying #{invoice_id} Invoice.
+
+Invoice Information
+------------------------------------
+{invoice_items_html}
+------------------------------------
+Subtotal: {invoice_subtotal}
+Tax(%{invoice_tax_rate}): {invoice_tax}
+Total Amount Paid: {invoice_total}
+------------------------------------
+Payment Method: {invoice_payment_method}
+Date Paid: {invoice_date_paid}
+------------------------------------

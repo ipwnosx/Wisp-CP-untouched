@@ -1,0 +1,8 @@
+An unexpected failure occurred during the activation of an order.
+------------------------------------
+Service: {order_name}
+------------------------------------
+Client: {user_full_name} {user_company_name}
+------------------------------------
+Error Message: 
+{error_message}

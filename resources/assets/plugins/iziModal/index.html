@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>iziModal-sample</title>
+
+  <link rel='stylesheet prefetch' href='css/iziModal.min.css'>
+  <!--link rel="stylesheet" href="css/style.css"-->
+
+  
+</head>
+
+<body>
+
+  <p>ボタンをクリックするとモーダルが表示されます</p>
+<button class="open-default button">default</button>
+<div id="modal-default">
+  <div class="close">
+    <a data-izimodal-close="">×</a>
+  </div>
+  <p>このモーダルはデフォルト設定です</p>
+</div>
+
+<button class="open-options button">options</button>
+<div id="modal-options" data-izimodal-group="group1" data-izimodal-loop="" data-izimodal-title="オプション設定モーダル" data-izimodal-subtitle="サブタイトル">
+  <p>このモーダルはオプション設定をしています<br>iframeモーダルとグループ設定しています</p>
+</div>
+
+<button class="open-iframe button">iframe</button>
+<div id="modal-iframe" data-izimodal-group="group1"></div>
+
+<button class="open-alert button">alert</button>
+<div id="modal-alert" data-izimodal-title="アラートモーダル" data-izimodal-subtitle="10秒で非表示になります"></div>
+  <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+<script src='js/iziModal.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

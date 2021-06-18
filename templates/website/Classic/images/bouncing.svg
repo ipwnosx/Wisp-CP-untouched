@@ -1,0 +1,14 @@
+<svg width="80px"  height="80px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-flat-ball" style="background: none;">
+    <defs>
+      <mask ng-attr-id="{{config.mid}}" id="lds-flat-ball-mask-7dcefcb769479">
+        <circle cx="50" cy="50" r="45" fill="#fff"></circle>
+      </mask>
+    </defs>
+    <circle cx="50" cy="50" r="45" ng-attr-fill="{{config.base}}" fill="#b9b9b9"></circle>
+    <path ng-attr-fill="{{config.dark}}" mask="url(#lds-flat-ball-mask-7dcefcb769479)" fill="rgb(149, 149, 149)" d="M 37.2721 56.7098 L 62.7279 31.2539 L 162.728 131.254 L 137.272 156.71 Z">
+      <animate attributeName="d" calcMode="spline" values="M 37.27207793864214 40.72792206135786 L 62.72792206135786 15.272077938642143 L 162.72792206135784 115.27207793864214 L 137.27207793864216 140.72792206135784 Z;M 37.27207793864214 79.72792206135786 L 62.72792206135786 54.27207793864214 L 162.72792206135784 154.27207793864216 L 137.27207793864216 179.72792206135784 Z;M 37.27207793864214 40.72792206135786 L 62.72792206135786 15.272077938642143 L 162.72792206135784 115.27207793864214 L 137.27207793864216 140.72792206135784 Z" keyTimes="0;0.5;1" dur="1" keySplines="0.45 0 0.9 0.55;0 0.45 0.55 0.9" begin="0s" repeatCount="indefinite"></animate>
+    </path>
+    <circle cx="50" ng-attr-cy="{{config.cy}}" ng-attr-r="{{config.radius}}" ng-attr-fill="{{config.color}}" cy="43.9818" r="18" fill="#ffffff">
+      <animate attributeName="cy" calcMode="spline" values="28;67;28" keyTimes="0;0.5;1" dur="1" keySplines="0.45 0 0.9 0.55;0 0.45 0.55 0.9" begin="0s" repeatCount="indefinite"></animate>
+    </circle>
+  </svg>

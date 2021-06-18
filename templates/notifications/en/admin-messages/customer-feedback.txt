@@ -1,0 +1,10 @@
+The message details sent via "Client Feedback Form" are described below.
+------------------------------------
+Name/Surname: {customer_full_name} - {customer_company_name}
+------------------------------------
+E-mail: {customer_email}
+------------------------------------
+IP No: {user_ip}
+------------------------------------
+The Message: 
+{customer_message}

@@ -1,0 +1,6 @@
+Sn. {user_full_name}
+
+{invoice_id} numaralı faturanızın son ödeme tarihi geçmiştir.
+
+Faturanızı görüntülemek için;
+{invoice_payment_link}

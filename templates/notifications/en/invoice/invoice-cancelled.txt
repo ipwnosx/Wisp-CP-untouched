@@ -1,0 +1,12 @@
+Your invoice # {invoice_id} has been canceled on {invoice_cancelled_date}.
+
+Invoice Information
+------------------------------------
+{invoice_items_html}
+------------------------------------
+Subtotal: {invoice_subtotal}
+Tax(%{invoice_tax_rate}): {invoice_tax}
+Amount Payable: {invoice_total}
+
+Sincerely,
+We wish you success in your work.

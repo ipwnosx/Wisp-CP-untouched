@@ -1,0 +1,5 @@
+The client sent a response to the support ticket.
+
+Service: {ticket_service}
+
+Ticket Details:  {ticket_link}

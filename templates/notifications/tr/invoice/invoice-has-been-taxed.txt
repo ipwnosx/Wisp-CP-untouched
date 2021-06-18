@@ -1,0 +1,6 @@
+Sn. {user_full_name}
+
+#{invoice_id} numaralı resmi faturanız sisteme yüklenmiştir.
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

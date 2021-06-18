@@ -1,0 +1,8 @@
+{user_full_name} adlı bir müşteri, sms gönderici başlığı için talep oluşturdu. İlgili detaylar aşağıda bulunmaktadır.
+
+Talep Edilen Başlık: {origin_name}
+
+Talep Edilen Ülke: {country}
+
+SMS Başlığını Yönet
+{origin_detail_link}

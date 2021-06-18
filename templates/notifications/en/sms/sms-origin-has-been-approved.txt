@@ -1,0 +1,6 @@
+Your SMS sender ID "{origin_name}" has been approved and defined in your account.
+
+------------------------------------
+Sender ID: {origin_name}
+------------------------------------
+Country: {country}

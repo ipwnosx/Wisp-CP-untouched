@@ -1,0 +1,13 @@
+Your order has been received. Order information is shown below, the system will perform some checks and will notify you as soon as possible.
+
+Your Order Details
+------------------------------------
+{order_items}
+------------------------------------
+Order Amount: {order_subtotal}
+Tax(%{order_tax_rate}): {order_tax}
+------------------------------------
+Amount Paid: {order_total}
+------------------------------------
+Payment Method: {invoice_payment_method}
+------------------------------------

@@ -1,0 +1,28 @@
+<?php 
+return [
+    'name'         => 'WISECP Reseller',
+    'turn-back'    => 'Turn Back',
+    'apply'        => 'Apply',
+    'successful'   => 'Process Successfully Done',
+    'error'        => 'Process Failed',
+    'error1'       => 'Something went wrong',
+    'error2'       => 'API information is not defined',
+    'error3'       => 'Invalid or Incorrect API Information',
+    'success1'     => 'Settings Saved Successfully.',
+    'desc'         => 'As a WISECP Reseller, you can easily sell licenses through your own system. When activation is provided, you can access license packages through the "Admin Panel > Services > WISECP Licenses", and you can set your own prices for WISECP licenses and sell WISECP licenses. When you sell a license, everything happens automatically. For this, you only need to have an account credit fund on the my.wisecp.com. Please contact us via wisecp.com for further information.',
+    'status'       => 'Status',
+    'status-desc'  => 'Activate the WISECP Reseller',
+    'balance'      => 'Account Credit',
+    'key'          => 'API Key',
+    'key-desc'     => 'You can obtain the API key from the Reseller page of your customer panel my.wisecp.com.',
+    'product'      => 'Product',
+    'support-addon' => 'Support and Update Addon',
+    'support-addon-desc' => '',
+    'product-list' => [
+        92                      => 'WISECP Professional (Monthly)',
+        171                     => 'WISECP Startup (Monthly)',
+        174                     => 'WISECP Startup (Lifetime)',
+        175                     => 'WISECP Professional (Lifetime)',
+        176                     => 'WISECP Enterprise (Lifetime)',
+    ],
+];

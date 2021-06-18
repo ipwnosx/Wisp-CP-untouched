@@ -1,0 +1,9 @@
+A client has made a transaction related to current service, a manual action is required by an admin.
+
+Transaction Details;
+------------------------------------
+Client: {user_full_name} {user_company_name}
+------------------------------------
+Service: {order_name}
+------------------------------------
+Transaction: {reason}

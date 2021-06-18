@@ -1,0 +1,7 @@
+You received this message due to the reminder record you created on {c_date}.
+
+Reminder Details;
+------------------------------------
+Reminder Time: {reminder_time}
+------------------------------------
+Reminder Note: {note}

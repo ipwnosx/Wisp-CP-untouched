@@ -1,0 +1,9 @@
+We are unable to accept your request for SMS Sender ID "{origin_name}"
+
+------------------------------------
+Sender ID: {origin_name}
+------------------------------------
+Country: {country}
+------------------------------------
+Reason: 
+{reason}

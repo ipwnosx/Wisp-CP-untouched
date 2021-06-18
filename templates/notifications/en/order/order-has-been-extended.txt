@@ -1,0 +1,9 @@
+Service end date of your order has been updated to {order_date_end}
+
+Service Information
+------------------------------------
+{order_name} - {order_amount}
+
+Service Details
+------------------------------------
+{order_detail_link}

@@ -1,0 +1,9 @@
+A new task has been assigned to you by {by_name}. Details are described below.
+
+Task Details;
+------------------------------------
+Title: {title}
+------------------------------------
+Start/End Date: {c_date} / {due_date}
+------------------------------------
+Information: {description}

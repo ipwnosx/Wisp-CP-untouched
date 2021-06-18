@@ -1,0 +1,5 @@
+{
+  "name" : "Doğrulama Kodu Onaylama Şablonu",
+  "subject" : "Sn. {full_name} Hesabınızı Doğrulayın.",
+  "variables" : "{full_name},{name},{surname},{verify_code}"
+}

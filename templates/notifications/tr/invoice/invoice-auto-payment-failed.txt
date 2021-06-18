@@ -1,0 +1,6 @@
+Sonu {card_ln4} biten kredi kartınızla #{invoice_id} nolu faturanızı ödemeye çalıştık. Fakat aşağıda açıklanan nedenden dolayı işlem başarısızlıkla sonuçlandı.
+
+Bankanızdan gelen yanıt;
+{error_message}
+
+Kredi kartınızı uygun duruma getirebilirseniz ödeme işlemini birkaç gün için tekrar deneyeceğiz. Faturanız ödendiğinde ayrıca bilgilendirileceksiniz.

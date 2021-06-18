@@ -1,0 +1,10 @@
+Sn. {admin_name}
+
+{c_date} tarihinde oluşturduğunuz hatırlatma kaydına istinaden bu mesajı aldınız.
+
+Hatırlatılmasını istediğiniz bilgiler aşağıda yer almaktadır.
+-------------------
+Hatırlatma Notu;
+{note}
+-------------------
+Hatırlatma Zamanı; {reminder_time}

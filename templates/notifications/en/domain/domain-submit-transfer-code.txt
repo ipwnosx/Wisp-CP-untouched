@@ -1,0 +1,5 @@
+Domain name transfer code you requested for your {domain} domain can be found below.
+
+Please do not forget to update your DNS information before transferring your domain name. Otherwise, the DNS information cannot be changed until the transfer completes when the transfer process is started.
+
+Your transfer code: {domain_transfer_code}

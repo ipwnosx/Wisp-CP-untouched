@@ -1,0 +1,10 @@
+Sn. {user_full_name}
+
+{order_date_created} tarihinde oluşturulan {order_name} alan adınız, başarı ile tarafınıza tahsis ve transfer edilmiştir.
+
+Alan adınızın tescil süresi {order_date_end} tarihinde son bulacaktır. Bu tarihten önce alan adınızın süresini uzatmanızı öneririz. Hizmet bitiş tarihi yaklaştığında sizi tekrar bilgilendireceğiz.
+
+Bizi tercih ettiğiniz için teşekkür ederiz.
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

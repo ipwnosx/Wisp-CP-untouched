@@ -1,0 +1,19 @@
+Sn. {user_full_name}
+
+Aşağıda detayları verilen siparişiniz tarafımıza ulaşmış olup, ödeme onayı ile birlikte aktivasyon işlemleriniz sağlanacaktır.
+
+Bizi tercih ettiğiniz için teşekkür ederiz.
+
+Sipariş Bilgileri
+------------------------------------
+{order_items}
+------------------------------------
+Sipariş Tutarı: {order_subtotal}
+Vergi (%{order_tax_rate}): {order_tax}
+Toplam Ödenen Tutar: {order_total}
+------------------------------------
+Sipariş Tarihi: {order_date_created}
+Ödeme Yöntemi: {invoice_payment_method}
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

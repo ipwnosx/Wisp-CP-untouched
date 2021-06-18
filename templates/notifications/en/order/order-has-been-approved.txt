@@ -1,0 +1,9 @@
+Your order is now approved.
+
+You will receive a different email for service activation.
+
+Your Order Detail
+------------------------------------
+{order_name} ({order_date_start} - {order_date_end}) - {order_amount}
+------------------------------------
+Service End Date: {order_date_created}

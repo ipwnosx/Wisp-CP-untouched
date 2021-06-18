@@ -1,0 +1,14 @@
+Dear {user_full_name}
+
+Your #{invoice_id} invoice has been created on {invoice_date_created} and details are provided below.
+
+{invoice_items_html}
+------------------------------------
+Subtotal: {invoice_subtotal}
+Tax(%{invoice_tax_rate}): {invoice_tax}
+Total Amount Paid: {invoice_total}
+------------------------------------
+Last Payment Date: {invoice_date_due}
+------------------------------------
+To pay your invoice now;
+{invoice_payment_link}

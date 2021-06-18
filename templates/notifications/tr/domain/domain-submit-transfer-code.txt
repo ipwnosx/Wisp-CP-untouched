@@ -1,0 +1,10 @@
+Sn. {user_full_name}
+
+{order_name} alan adınız için talep ettiğiniz alan adı transfer kodunuz aşağıda verilmiştir.
+
+Alan adınızı transfer etmeden önce dns bilgilerinizi güncellemeyi ihmal etmeyiniz. Aksi halde, transfer işlemi başlatıldığında dns bilgileri transfer tamamlanana kadar değiştirilemez.
+
+Alan Adı Transfer Kodunuz: {domain_transfer_code}
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

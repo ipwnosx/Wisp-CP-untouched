@@ -1,0 +1,11 @@
+A client has upgraded to a higher package. However, only admin can approve the upgrade.
+
+Transaction Details;
+------------------------------------
+Client: {user_full_name} {user_company_name}
+------------------------------------
+Old Service: {product_old_name} - {product_old_amount}
+------------------------------------
+New Service: {product_new_name} - {product_new_amount}
+------------------------------------
+Difference Fee: {difference_fee}

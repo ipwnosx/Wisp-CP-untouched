@@ -1,0 +1,12 @@
+Sn. {user_full_name}
+
+Aşağıda detayları verilen siparişiniz aktif edilmiştir.
+
+Bilgilerinize sunarız.
+
+Sipariş Bilgileri
+-----------------
+{order_name} - {order_amount}
+
+Saygılarımızla,
+Çalışmalarınızda başarılar dileriz.

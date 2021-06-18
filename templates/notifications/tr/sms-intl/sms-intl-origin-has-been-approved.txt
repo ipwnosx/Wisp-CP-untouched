@@ -1,0 +1,4 @@
+{country} ülkesine ait {origin_name} sms gönderici başlığı talebiniz, onaylanmış ve hesabınıza tanımlanmıştır.
+
+Aşağıdaki bağlantı üzerinden sms yönetim panelinize ulaşabilirsiniz.
+{origin_detail_link}

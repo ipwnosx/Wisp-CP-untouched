@@ -1,0 +1,42 @@
+<?php 
+return [
+    'in-meta'                    => [
+        'title' => "Giri\xc5\x9f Yap | Y\xc3\xb6netim Paneli",
+    ],
+    'your-email-address'         => 'E-Posta',
+    'your-password'              => 'Parola',
+    'remember-me'                => "Beni Hat\xc4\xb1rla",
+    'remind-password'            => "Parola Hat\xc4\xb1rlat",
+    'login-button'               => "Oturum A\xc3\xa7",
+    'sidebar-slogan1'            => "WISECP \xc4\xb0\xc5\x9flem Merkezine Ho\xc5\x9f Geldiniz.",
+    'sidebar-slogan2'            => "WISECP ak\xc4\xb1ll\xc4\xb1 kontrol paneli ile, t\xc3\xbcm sistem \xc3\xbczerinde kolayl\xc4\xb1kla y\xc3\xb6netim sa\xc4\x9flayabilirsiniz. Y\xc3\xb6netici giri\xc5\x9fi yapabilmek i\xc3\xa7in, \xc3\xb6nceden tan\xc4\xb1ml\xc4\xb1 bulunan y\xc3\xb6netici giri\xc5\x9f bilgilerinizi kullan\xc4\xb1n.",
+    'forget-title'               => "Parola Hat\xc4\xb1rlat",
+    'get-login'                  => "Giri\xc5\x9f yap",
+    'forget-button'              => "Parolam\xc4\xb1 Hat\xc4\xb1rlat",
+    'forget-success-title'       => "Hat\xc4\xb1rlatma G\xc3\xb6nderilmi\xc5\x9ftir.",
+    'forget-success-content'     => "Sistemde kay\xc4\xb1tl\xc4\xb1 ileti\xc5\x9fim bilgilerinize bildirim yap\xc4\xb1lm\xc4\xb1\xc5\x9ft\xc4\xb1r.",
+    'in-success-title'           => "Giri\xc5\x9f Ba\xc5\x9far\xc4\xb1yla Ger\xc3\xa7ekle\xc5\x9fmi\xc5\x9ftir.",
+    'in-success-content'         => 'Bekleyiniz...',
+    'in-submit-empty-email'      => "L\xc3\xbctfen e-posta adresinizi giriniz.",
+    'in-submit-empty-password'   => "L\xc3\xbctfen parolan\xc4\xb1z\xc4\xb1 giriniz.",
+    'in-submit-invalid-email'    => "L\xc3\xbctfen ge\xc3\xa7erli bir e-posta adresi giriniz.",
+    'in-submit-blocking'         => [
+        'content'   => "Fazla say\xc4\xb1da hatal\xc4\xb1 deneme yapt\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1z i\xc3\xa7in bir s\xc3\xbcreli\xc4\x9fine engellendiniz. Parola hat\xc4\xb1rlatma se\xc3\xa7ene\xc4\x9finden giri\xc5\x9f bilgilerinizi temin edebilirsiniz.",
+        'variables' => '[blocking-time}',
+    ],
+    'in-submit-invalid-info'     => "Hatal\xc4\xb1 veya Ge\xc3\xa7ersiz Bilgiler.",
+    'in-submit-status-blocking'  => "\xc3\x9cyeli\xc4\x9finiz engellenmi\xc5\x9ftir.",
+    'in-submit-status-inactive'  => "\xc3\x9cyeli\xc4\x9finiz pasifle\xc5\x9ftirilmi\xc5\x9ftir.",
+    'forget-submit-empty-email'  => "L\xc3\xbctfen e-posta adresinizi giriniz.",
+    'forget-submit-invali-email' => "L\xc3\xbctfen ge\xc3\xa7erli bir e-posta adresi giriniz.",
+    'forget-submit-blocking'     => [
+        'content'   => "Az \xc3\xb6nce talep olu\xc5\x9fturdunuz l\xc3\xbctfen bir m\xc3\xbcddet bekleyiniz.",
+        'variables' => '{blocking-time}',
+    ],
+    'forget-submit-invalid-info' => "Girilen e-posta sistemimizde kay\xc4\xb1tl\xc4\xb1 de\xc4\x9fildir.",
+    'forget-unexpected-error'    => "Beklenmeyen bir hata olu\xc5\x9ftu.",
+    'forget-failed-send'         => [
+        'content'   => "Hat\xc4\xb1rlatma i\xc5\x9flemi yap\xc4\xb1lam\xc4\xb1yor. L\xc3\xbctfen yetkililere bildiriniz.",
+        'variables' => '{error}',
+    ],
+];

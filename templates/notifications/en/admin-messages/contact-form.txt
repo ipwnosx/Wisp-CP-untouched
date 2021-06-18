@@ -1,0 +1,12 @@
+A visitor has sent message via website contact form. You can see the details below.
+------------------------------------
+Name: {user_full_name}
+------------------------------------
+E-Mail: {user_email}
+------------------------------------
+Contact Number: {user_phone}
+------------------------------------
+IP Address: {user_ip}
+------------------------------------
+Message: 
+{user_message}
